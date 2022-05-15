@@ -1,0 +1,1 @@
+THis folder contains the database of the electrogrid system.In that case there is a table called emergency_service which store all emergency service requests.
